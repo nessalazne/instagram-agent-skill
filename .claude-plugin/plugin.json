@@ -1,0 +1,23 @@
+{
+  "name": "instagram-agent",
+  "description": "Sixteen Claude skills that run an Instagram account: Reels off 26 hook formulas with a scored hook and a timed beat sheet, a research skill that finds what is working in your niche and ranks it by outlier multiple, captions linted against the feed truncation, sized hashtag sets, carousels, stories, profile score, weekly plan, comments, replies, DMs, repurposing, audits, an optional Apify reader for hashtags and profiles, a humanizer that strips the AI fingerprint, and a publish step that posts or schedules the approved post to Instagram through Blotato.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Ness Alazne",
+    "url": "https://builds.digicuratoragency.com"
+  },
+  "homepage": "https://github.com/nessalazne/instagram-agent-skill",
+  "repository": "https://github.com/nessalazne/instagram-agent-skill",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "reels",
+    "content",
+    "writing",
+    "humanizer",
+    "social",
+    "marketing",
+    "blotato",
+    "apify"
+  ]
+}
