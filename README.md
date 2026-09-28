@@ -6,10 +6,6 @@ posts, through Blotato, and only after you have said "publish". One of them
 can also fetch public Instagram data through Apify if you give it a key,
 instead of you collecting it by hand.
 
-Forked from Jake Schincariol's
-[instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
-(MIT). What changed in this edition is at the bottom.
-
 One of them writes your Reels off 26 hook formulas and scores the hook before
 you waste a take on it. One goes and finds the reels that are actually working
 in your niche and ranks them by how far each beat its own account. One writes
