@@ -60,7 +60,7 @@ Show the user, in one block:
 
 ```
 PUBLISH CHECK
-account:   Instagram @nessalazne (from publish.py --check)
+account:   Instagram @yourhandle (from publish.py --check)
 kind:      reel  |  photo  |  carousel (7 slides)  |  story
 media:     reel.mp4 (48 MB)   cover: cover.jpg
 when:      now  |  next free slot  |  2026-09-22 08:15 local (12:15 UTC)
